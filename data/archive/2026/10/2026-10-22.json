@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at_utc": "2026-10-22T21:41:25.865983+00:00",
+    "generated_at_utc": "2026-10-22T21:45:17.714173+00:00",
     "schema_version": "1.0.0",
     "packages_evaluated": 12,
     "scoring_rule": "FractureScore = f(ReleaseStaleness, MaintainerConcentration, DownstreamReach)"
