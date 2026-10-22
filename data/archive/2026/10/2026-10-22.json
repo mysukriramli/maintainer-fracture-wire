@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at_utc": "2026-10-22T17:15:31.606894+00:00",
+    "generated_at_utc": "2026-10-22T17:20:12.523948+00:00",
     "schema_version": "1.0.0",
     "packages_evaluated": 12,
     "scoring_rule": "FractureScore = f(ReleaseStaleness, MaintainerConcentration, DownstreamReach)"
@@ -18,8 +18,8 @@
       "directive": "VENDOR_PACKAGE",
       "confidence": 0.88,
       "reason_codes": [
-        "SINGLE_MAINTAINER_CONCENTRATION",
-        "CRITICAL_RELEASE_STALENESS"
+        "CRITICAL_RELEASE_STALENESS",
+        "SINGLE_MAINTAINER_CONCENTRATION"
       ],
       "alternatives": [
         "ruamel.yaml"
@@ -37,8 +37,8 @@
       "directive": "VENDOR_PACKAGE",
       "confidence": 0.88,
       "reason_codes": [
-        "SINGLE_MAINTAINER_CONCENTRATION",
-        "CRITICAL_RELEASE_STALENESS"
+        "CRITICAL_RELEASE_STALENESS",
+        "SINGLE_MAINTAINER_CONCENTRATION"
       ],
       "alternatives": [
         "builtins"
