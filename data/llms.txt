@@ -1,5 +1,5 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-10-28T13:12:50.563172+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-10-28T22:42:04.282490+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
@@ -10,10 +10,10 @@
 | **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 210d | 1 | radash, remeda |
 | **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 167d | 1 | httpx, aiohttp |
 | **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 43d | 1 | httpx |
-| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 21d | 1 | sqlalchemy, tortoise-orm |
+| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 22d | 1 | sqlalchemy, tortoise-orm |
 | **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 7d | 1 | fastapi, asyncio |
-| **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 1d | 1 | ky, fetch, got |
-| **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 31d | 1 | kleur, picocolors |
-| **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 152d | 2 | yargs, cac |
+| **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 2d | 1 | ky, fetch, got |
+| **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 32d | 1 | kleur, picocolors |
+| **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 153d | 2 | yargs, cac |
 | **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 19d | 5 | fastify, koa |
 | **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 44d | 6 | date-fns, dayjs, luxon |
