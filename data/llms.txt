@@ -1,19 +1,19 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-10-28T05:55:26.521467+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-10-28T13:12:50.563172+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
 | Package | Ecosystem | Fracture Score | Directive | Last Release (Days) | Maintainers | Recommended Alternatives |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 397d | 1 | ruamel.yaml |
-| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 692d | 1 | builtins |
-| **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 209d | 1 | radash, remeda |
-| **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 166d | 1 | httpx, aiohttp |
-| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 42d | 1 | httpx |
+| **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 398d | 1 | ruamel.yaml |
+| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 693d | 1 | builtins |
+| **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 210d | 1 | radash, remeda |
+| **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 167d | 1 | httpx, aiohttp |
+| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 43d | 1 | httpx |
 | **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 21d | 1 | sqlalchemy, tortoise-orm |
 | **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 7d | 1 | fastapi, asyncio |
 | **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 1d | 1 | ky, fetch, got |
 | **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 31d | 1 | kleur, picocolors |
 | **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 152d | 2 | yargs, cac |
 | **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 19d | 5 | fastify, koa |
-| **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 43d | 6 | date-fns, dayjs, luxon |
+| **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 44d | 6 | date-fns, dayjs, luxon |
