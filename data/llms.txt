@@ -1,19 +1,19 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-10-30T22:29:07.262980+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-10-31T05:57:06.678891+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
 | Package | Ecosystem | Fracture Score | Directive | Last Release (Days) | Maintainers | Recommended Alternatives |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 400d | 1 | ruamel.yaml |
-| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 695d | 1 | builtins |
+| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 696d | 1 | builtins |
 | **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 212d | 1 | radash, remeda |
 | **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 169d | 1 | httpx, aiohttp |
 | **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 45d | 1 | httpx |
-| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 23d | 1 | sqlalchemy, tortoise-orm |
-| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 9d | 1 | fastapi, asyncio |
+| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 24d | 1 | sqlalchemy, tortoise-orm |
+| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 10d | 1 | fastapi, asyncio |
 | **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 4d | 1 | ky, fetch, got |
 | **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 34d | 1 | kleur, picocolors |
 | **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 155d | 2 | yargs, cac |
-| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 21d | 5 | fastify, koa |
+| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 22d | 5 | fastify, koa |
 | **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 46d | 6 | date-fns, dayjs, luxon |
