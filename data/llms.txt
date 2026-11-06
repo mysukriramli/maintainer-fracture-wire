@@ -1,19 +1,19 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-11-05T20:06:31.381977+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-11-06T07:00:00.269247+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
 | Package | Ecosystem | Fracture Score | Directive | Last Release (Days) | Maintainers | Recommended Alternatives |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 406d | 1 | ruamel.yaml |
-| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 701d | 1 | builtins |
+| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 702d | 1 | builtins |
 | **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 218d | 1 | radash, remeda |
-| **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 175d | 1 | httpx, aiohttp |
-| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 51d | 1 | httpx |
-| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 29d | 1 | sqlalchemy, tortoise-orm |
-| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 15d | 1 | fastapi, asyncio |
+| **requests** | `pypi` | `36.9` | `MAINTAINER_HEALTHY` | 176d | 1 | httpx, aiohttp |
+| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 52d | 1 | httpx |
+| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 30d | 1 | sqlalchemy, tortoise-orm |
+| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 16d | 1 | fastapi, asyncio |
 | **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 10d | 1 | ky, fetch, got |
 | **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 40d | 1 | kleur, picocolors |
-| **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 160d | 2 | yargs, cac |
-| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 27d | 5 | fastify, koa |
+| **commander** | `npm` | `26.1` | `MAINTAINER_HEALTHY` | 161d | 2 | yargs, cac |
+| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 28d | 5 | fastify, koa |
 | **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 52d | 6 | date-fns, dayjs, luxon |
