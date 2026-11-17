@@ -1,19 +1,19 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-11-17T08:08:12.075611+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-11-17T21:05:31.778411+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
 | Package | Ecosystem | Fracture Score | Directive | Last Release (Days) | Maintainers | Recommended Alternatives |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 417d | 1 | ruamel.yaml |
+| **pyyaml** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 418d | 1 | ruamel.yaml |
 | **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 713d | 1 | builtins |
-| **requests** | `pypi` | `46.8` | `MAINTAINER_HEALTHY` | 186d | 1 | httpx, aiohttp |
+| **requests** | `pypi` | `46.8` | `MAINTAINER_HEALTHY` | 187d | 1 | httpx, aiohttp |
 | **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 230d | 1 | radash, remeda |
-| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 62d | 1 | httpx |
+| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 63d | 1 | httpx |
 | **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 41d | 1 | sqlalchemy, tortoise-orm |
 | **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 8d | 1 | fastapi, asyncio |
 | **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 8d | 1 | ky, fetch, got |
-| **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 51d | 1 | kleur, picocolors |
-| **commander** | `npm` | `19.5` | `MAINTAINER_HEALTHY` | 10d | 2 | yargs, cac |
+| **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 52d | 1 | kleur, picocolors |
+| **commander** | `npm` | `19.5` | `MAINTAINER_HEALTHY` | 11d | 2 | yargs, cac |
 | **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 39d | 5 | fastify, koa |
-| **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 63d | 6 | date-fns, dayjs, luxon |
+| **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 64d | 6 | date-fns, dayjs, luxon |
