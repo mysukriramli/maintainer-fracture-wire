@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at_utc": "2026-11-21T07:25:08.127562+00:00",
+    "generated_at_utc": "2026-11-21T19:29:00.535126+00:00",
     "schema_version": "1.0.0",
     "packages_evaluated": 12,
     "scoring_rule": "FractureScore = f(ReleaseStaleness, MaintainerConcentration, DownstreamReach)"
@@ -11,15 +11,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/six@1.17.0",
       "latest_version": "1.17.0",
-      "days_since_last_release": 716.6,
+      "days_since_last_release": 717.1,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 55.05,
       "directive": "VENDOR_PACKAGE",
       "confidence": 0.88,
       "reason_codes": [
-        "CRITICAL_RELEASE_STALENESS",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "CRITICAL_RELEASE_STALENESS"
       ],
       "alternatives": [
         "builtins"
@@ -30,15 +30,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/requests@2.34.2",
       "latest_version": "2.34.2",
-      "days_since_last_release": 190.5,
+      "days_since_last_release": 191.0,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 46.8,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "httpx",
@@ -50,15 +50,15 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/lodash@4.18.1",
       "latest_version": "4.18.1",
-      "days_since_last_release": 233.4,
+      "days_since_last_release": 233.9,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 46.8,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "radash",
@@ -70,15 +70,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/urllib3@2.8.0",
       "latest_version": "2.8.0",
-      "days_since_last_release": 66.5,
+      "days_since_last_release": 67.0,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "httpx"
@@ -89,15 +89,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/pyyaml@6.0.4",
       "latest_version": "6.0.4",
-      "days_since_last_release": 0.3,
+      "days_since_last_release": 0.8,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "ruamel.yaml"
@@ -108,15 +108,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/peewee@4.5.3",
       "latest_version": "4.5.3",
-      "days_since_last_release": 44.8,
+      "days_since_last_release": 45.3,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "sqlalchemy",
@@ -128,15 +128,15 @@
       "ecosystem": "pypi",
       "purl": "pkg:pypi/tornado@6.6.1",
       "latest_version": "6.6.1",
-      "days_since_last_release": 11.4,
+      "days_since_last_release": 11.9,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "fastapi",
@@ -148,15 +148,15 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/axios@1.21.1",
       "latest_version": "1.21.1",
-      "days_since_last_release": 11.6,
+      "days_since_last_release": 12.1,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "ky",
@@ -169,15 +169,15 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/chalk@6.0.1",
       "latest_version": "6.0.1",
-      "days_since_last_release": 55.2,
+      "days_since_last_release": 55.7,
       "estimated_maintainer_count": 1,
       "direct_dependents": 1000,
       "fracture_probability_score": 30.3,
       "directive": "MAINTAINER_HEALTHY",
       "confidence": 0.95,
       "reason_codes": [
-        "RELEASE_CADENCE_HEALTHY",
-        "SINGLE_MAINTAINER_CONCENTRATION"
+        "SINGLE_MAINTAINER_CONCENTRATION",
+        "RELEASE_CADENCE_HEALTHY"
       ],
       "alternatives": [
         "kleur",
@@ -189,7 +189,7 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/commander@15.1.0",
       "latest_version": "15.1.0",
-      "days_since_last_release": 14.2,
+      "days_since_last_release": 14.8,
       "estimated_maintainer_count": 2,
       "direct_dependents": 1000,
       "fracture_probability_score": 19.5,
@@ -208,7 +208,7 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/express@5.3.0",
       "latest_version": "5.3.0",
-      "days_since_last_release": 42.8,
+      "days_since_last_release": 43.3,
       "estimated_maintainer_count": 5,
       "direct_dependents": 1000,
       "fracture_probability_score": 8.7,
@@ -227,7 +227,7 @@
       "ecosystem": "npm",
       "purl": "pkg:npm/moment@2.31.0",
       "latest_version": "2.31.0",
-      "days_since_last_release": 67.3,
+      "days_since_last_release": 67.8,
       "estimated_maintainer_count": 6,
       "direct_dependents": 1000,
       "fracture_probability_score": 8.7,
