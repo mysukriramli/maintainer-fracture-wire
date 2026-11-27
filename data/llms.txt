@@ -1,19 +1,19 @@
 # Maintainer Fracture Wire
-> Last updated: 2026-11-26T21:43:32.083902+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
+> Last updated: 2026-11-27T08:48:32.780840+00:00 UTC | Autonomous Package Abandonment & Continuity Radar
 > Evaluates open-source package bus factor, release interval decay, and downstream blast radius.
 
 ## Active Maintainer Fracture Directives
 | Package | Ecosystem | Fracture Score | Directive | Last Release (Days) | Maintainers | Recommended Alternatives |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 722d | 1 | builtins |
-| **requests** | `pypi` | `46.8` | `MAINTAINER_HEALTHY` | 196d | 1 | httpx, aiohttp |
-| **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 239d | 1 | radash, remeda |
-| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 72d | 1 | httpx |
+| **six** | `pypi` | `55.05` | `VENDOR_PACKAGE` | 723d | 1 | builtins |
+| **requests** | `pypi` | `46.8` | `MAINTAINER_HEALTHY` | 197d | 1 | httpx, aiohttp |
+| **lodash** | `npm` | `46.8` | `MAINTAINER_HEALTHY` | 240d | 1 | radash, remeda |
+| **urllib3** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 73d | 1 | httpx |
 | **pyyaml** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 6d | 1 | ruamel.yaml |
-| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 50d | 1 | sqlalchemy, tortoise-orm |
-| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 17d | 1 | fastapi, asyncio |
-| **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 17d | 1 | ky, fetch, got |
+| **peewee** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 51d | 1 | sqlalchemy, tortoise-orm |
+| **tornado** | `pypi` | `30.3` | `MAINTAINER_HEALTHY` | 18d | 1 | fastapi, asyncio |
+| **axios** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 18d | 1 | ky, fetch, got |
 | **chalk** | `npm` | `30.3` | `MAINTAINER_HEALTHY` | 61d | 1 | kleur, picocolors |
 | **commander** | `npm` | `19.5` | `MAINTAINER_HEALTHY` | 20d | 2 | yargs, cac |
-| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 48d | 5 | fastify, koa |
+| **express** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 49d | 5 | fastify, koa |
 | **moment** | `npm` | `8.7` | `MAINTAINER_HEALTHY` | 73d | 6 | date-fns, dayjs, luxon |
